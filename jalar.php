@@ -1,5 +1,5 @@
 <?php
-//include('functions.php');
+include('functions.php');
 $id=$_GET["nombre_servicio"];
 
 
